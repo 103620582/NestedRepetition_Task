@@ -12,12 +12,12 @@ namespace NestedRepetition_Task
             int counter = 0;
             int counter2 = 1;
 
-            while (counter<10) {
+            while (counter<5) {
                 counter2 = counter;
 
-                while (counter2<5) {
+                while (counter2<10) {
                     Console.Write(getname);
-                    counter2 = counter2+1;
+                    counter2 = counter2 + 1;
                 }
 
                 Console.Write(getname);
@@ -25,7 +25,8 @@ namespace NestedRepetition_Task
 
             }
 
-            Console.WriteLine("Goodbye."+""+getname);
+            Console.WriteLine(" ");
+            Console.WriteLine("Goodbye"+" "+getname);
 
         }
     }
