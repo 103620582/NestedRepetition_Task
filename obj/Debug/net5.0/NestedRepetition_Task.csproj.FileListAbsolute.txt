@@ -1,0 +1,15 @@
+/Users/joyambrose/NestedRepetition_Task/bin/Debug/net5.0/NestedRepetition_Task.deps.json
+/Users/joyambrose/NestedRepetition_Task/bin/Debug/net5.0/NestedRepetition_Task.runtimeconfig.json
+/Users/joyambrose/NestedRepetition_Task/bin/Debug/net5.0/NestedRepetition_Task.runtimeconfig.dev.json
+/Users/joyambrose/NestedRepetition_Task/bin/Debug/net5.0/NestedRepetition_Task.dll
+/Users/joyambrose/NestedRepetition_Task/bin/Debug/net5.0/ref/NestedRepetition_Task.dll
+/Users/joyambrose/NestedRepetition_Task/bin/Debug/net5.0/NestedRepetition_Task.pdb
+/Users/joyambrose/NestedRepetition_Task/obj/Debug/net5.0/NestedRepetition_Task.csprojAssemblyReference.cache
+/Users/joyambrose/NestedRepetition_Task/obj/Debug/net5.0/NestedRepetition_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joyambrose/NestedRepetition_Task/obj/Debug/net5.0/NestedRepetition_Task.AssemblyInfoInputs.cache
+/Users/joyambrose/NestedRepetition_Task/obj/Debug/net5.0/NestedRepetition_Task.AssemblyInfo.cs
+/Users/joyambrose/NestedRepetition_Task/obj/Debug/net5.0/NestedRepetition_Task.csproj.CoreCompileInputs.cache
+/Users/joyambrose/NestedRepetition_Task/obj/Debug/net5.0/NestedRepetition_Task.dll
+/Users/joyambrose/NestedRepetition_Task/obj/Debug/net5.0/ref/NestedRepetition_Task.dll
+/Users/joyambrose/NestedRepetition_Task/obj/Debug/net5.0/NestedRepetition_Task.pdb
+/Users/joyambrose/NestedRepetition_Task/obj/Debug/net5.0/NestedRepetition_Task.genruntimeconfig.cache
