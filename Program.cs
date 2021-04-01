@@ -13,6 +13,7 @@ namespace NestedRepetition_Task
             int counter2 = 1;
 
             while (counter<5) {
+                counter = counter + 1;
                 counter2 = counter;
 
                 while (counter2<10) {
@@ -21,7 +22,6 @@ namespace NestedRepetition_Task
                 }
 
                 Console.Write(getname);
-                counter = counter + 1;
 
             }
 
